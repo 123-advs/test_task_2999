@@ -5,6 +5,7 @@ class Data {
     "Hotel",
     "Villa",
     "Cottage",
+    "Cottage1",
   ];
 
   String description =
